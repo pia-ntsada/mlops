@@ -1,2 +1,1 @@
-# mlops
-gl week1
+# autompg-azure-mlops-main
